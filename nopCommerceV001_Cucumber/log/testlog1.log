@@ -1,0 +1,454 @@
+2020-05-11 19:00:16,156 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-11 19:00:16,209 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-11 19:00:23,052 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-11 19:00:29,830 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-11 19:00:29,835 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-11 19:01:44,398 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-11 19:01:44,408 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-11 19:01:51,064 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-11 19:01:57,613 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-11 19:01:57,616 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-11 19:02:03,487 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-11 19:02:03,490 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-11 19:02:11,396 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-11 19:02:17,367 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-11 19:02:17,367 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-11 19:05:21,851 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-11 19:05:21,868 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-11 19:05:29,121 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-11 19:05:35,936 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-11 19:05:35,938 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-11 20:01:54,389 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-11 20:01:54,412 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-11 20:02:01,459 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-11 20:02:07,254 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-11 20:02:07,259 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-11 20:02:12,570 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-11 20:02:12,572 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-11 20:02:19,475 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-11 20:02:26,034 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-11 20:02:26,035 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-11 20:07:34,650 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-11 20:07:34,664 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-11 20:07:34,664 [main] INFO nopcommerce - testing
+2020-05-11 20:07:41,551 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-11 20:07:48,263 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-11 20:07:48,331 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-11 20:07:53,988 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-11 20:07:53,993 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-11 20:07:53,993 [main] INFO nopcommerce - testing
+2020-05-11 20:08:00,971 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-11 20:08:07,891 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-11 20:08:07,935 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-11 20:18:59,529 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-11 20:18:59,550 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-11 20:18:59,551 [main] INFO nopcommerce - testing
+2020-05-11 20:19:06,539 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-11 20:19:13,221 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-11 20:19:13,303 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-11 20:19:19,482 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-11 20:19:19,489 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-11 20:19:19,490 [main] INFO nopcommerce - testing
+2020-05-11 20:19:26,073 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-11 20:19:32,157 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-11 20:19:32,218 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-11 20:33:34,150 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-11 20:33:34,160 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-11 20:33:34,161 [main] INFO nopcommerce - testing
+2020-05-11 20:33:40,958 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-11 20:33:47,673 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-11 20:33:47,743 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-11 20:33:53,707 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-11 20:33:53,711 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-11 20:33:53,711 [main] INFO nopcommerce - testing
+2020-05-11 20:34:05,027 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-11 20:35:33,680 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-11 20:35:33,691 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-11 20:35:33,691 [main] INFO nopcommerce - testing
+2020-05-11 20:35:40,741 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-11 20:35:46,550 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-11 20:35:46,612 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-11 20:35:52,446 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-11 20:35:52,454 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-11 20:35:52,455 [main] INFO nopcommerce - testing
+2020-05-11 20:35:59,370 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-11 20:36:06,107 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-11 20:36:06,185 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-11 20:36:37,002 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-11 20:36:37,020 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-11 20:36:37,020 [main] INFO nopcommerce - testing
+2020-05-11 20:36:43,329 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-11 20:36:53,949 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-11 20:36:53,997 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-11 20:36:59,010 [main] INFO nopcommerce - *********Logout from application***************
+2020-05-11 20:37:00,502 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-11 20:37:00,516 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-11 20:37:05,524 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-11 20:37:12,120 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-11 20:37:12,122 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-11 20:37:12,122 [main] INFO nopcommerce - testing
+2020-05-11 20:37:18,424 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-11 20:37:29,120 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-11 20:37:29,146 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-11 20:37:34,157 [main] INFO nopcommerce - *********Logout from application***************
+2020-05-11 20:37:36,350 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-11 20:37:36,360 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-11 20:37:41,369 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-11 22:17:28,905 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-11 22:17:29,014 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-11 22:17:29,015 [main] INFO nopcommerce - testing
+2020-05-11 22:17:35,834 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-11 22:17:48,714 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-11 22:17:48,735 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-11 22:17:56,432 [main] INFO nopcommerce - ********* Providing Customer details ***************
+2020-05-11 22:18:06,680 [main] INFO nopcommerce - ********* Add customer validation ***************
+2020-05-11 22:18:07,075 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-11 22:18:14,161 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-11 22:18:14,163 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-11 22:18:14,163 [main] INFO nopcommerce - testing
+2020-05-11 22:18:21,009 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-11 22:18:30,989 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-11 22:18:30,990 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-11 22:18:38,773 [main] INFO nopcommerce - ********* Search Customer by Email ID Scenario started***************
+2020-05-11 22:18:42,444 [main] INFO nopcommerce - ********* Search customer by email validation ***************
+2020-05-11 22:18:42,590 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-11 22:18:49,364 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-11 22:18:49,366 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-11 22:18:49,366 [main] INFO nopcommerce - testing
+2020-05-11 22:18:55,726 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-11 22:19:06,499 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-11 22:19:06,500 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-11 22:19:14,068 [main] INFO nopcommerce - ********* Seqarch custoemr by Name Scenario started***************
+2020-05-11 22:19:14,256 [main] INFO nopcommerce - ********* Providing customer name ***************
+2020-05-11 22:19:17,507 [main] INFO nopcommerce - ********* Search customer by name validation ***************
+2020-05-11 22:19:17,586 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-11 22:19:24,254 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-11 22:19:24,259 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-11 22:19:24,260 [main] INFO nopcommerce - testing
+2020-05-11 22:19:30,762 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-11 22:19:43,540 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-11 22:19:43,595 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-11 22:19:48,606 [main] INFO nopcommerce - *********Logout from application***************
+2020-05-11 22:19:50,131 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-11 22:19:50,145 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-11 22:19:55,154 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-11 22:20:01,923 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-11 22:20:01,927 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-11 22:20:01,928 [main] INFO nopcommerce - testing
+2020-05-11 22:20:08,074 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-11 22:20:18,432 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-11 22:20:18,486 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-11 22:20:23,493 [main] INFO nopcommerce - *********Logout from application***************
+2020-05-11 22:20:24,822 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-11 22:20:24,833 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-11 22:20:29,838 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 11:16:00,783 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 11:16:00,944 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 11:16:00,944 [main] INFO nopcommerce - testing
+2020-05-12 11:16:07,210 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 11:16:17,095 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-12 11:16:17,099 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-12 11:16:30,821 [main] INFO nopcommerce - ********* Providing Customer details ***************
+2020-05-12 11:16:40,124 [main] INFO nopcommerce - ********* Add customer validation ***************
+2020-05-12 11:16:40,359 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 11:18:26,051 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 11:18:26,090 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 11:18:26,090 [main] INFO nopcommerce - testing
+2020-05-12 11:18:28,709 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 11:18:41,405 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-12 11:18:41,409 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-12 11:18:50,391 [main] INFO nopcommerce - ********* Providing Customer details ***************
+2020-05-12 11:18:59,855 [main] INFO nopcommerce - ********* Add customer validation ***************
+2020-05-12 11:19:00,559 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 13:11:12,069 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 13:11:12,249 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 13:11:12,249 [main] INFO nopcommerce - testing
+2020-05-12 13:11:15,265 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 13:11:23,685 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-12 13:11:23,689 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-12 13:11:31,837 [main] INFO nopcommerce - ********* Providing Customer details ***************
+2020-05-12 13:11:41,604 [main] INFO nopcommerce - ********* Add customer validation ***************
+2020-05-12 13:11:42,257 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 13:11:53,339 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 13:11:53,366 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 13:11:53,366 [main] INFO nopcommerce - testing
+2020-05-12 13:11:56,861 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 13:12:06,964 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-12 13:12:06,965 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-12 13:12:14,594 [main] INFO nopcommerce - ********* Search Customer by Email ID Scenario started***************
+2020-05-12 13:12:18,003 [main] INFO nopcommerce - ********* Search customer by email validation ***************
+2020-05-12 13:12:18,038 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 13:12:29,053 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 13:12:29,059 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 13:12:29,059 [main] INFO nopcommerce - testing
+2020-05-12 13:12:32,987 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 13:12:43,353 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-12 13:12:43,354 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-12 13:12:50,257 [main] INFO nopcommerce - ********* Seqarch custoemr by Name Scenario started***************
+2020-05-12 13:12:50,368 [main] INFO nopcommerce - ********* Providing customer name ***************
+2020-05-12 13:12:53,749 [main] INFO nopcommerce - ********* Search customer by name validation ***************
+2020-05-12 13:12:53,797 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 13:13:04,686 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 13:13:04,689 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 13:13:04,689 [main] INFO nopcommerce - testing
+2020-05-12 13:13:08,004 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 13:13:19,145 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 13:13:19,215 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 13:13:24,222 [main] INFO nopcommerce - *********Logout from application***************
+2020-05-12 13:13:27,238 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 13:13:27,250 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 13:13:32,255 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 13:13:43,260 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 13:13:43,263 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 13:13:43,263 [main] INFO nopcommerce - testing
+2020-05-12 13:13:47,016 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 13:13:57,015 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 13:13:57,046 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 13:14:02,050 [main] INFO nopcommerce - *********Logout from application***************
+2020-05-12 13:14:04,383 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 13:14:04,396 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 13:14:09,404 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 14:07:43,120 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 14:07:43,178 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 14:07:43,178 [main] INFO nopcommerce - testing
+2020-05-12 14:07:45,988 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 14:07:56,558 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-12 14:07:56,558 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-12 14:08:05,668 [main] INFO nopcommerce - ********* Providing Customer details ***************
+2020-05-12 14:08:16,736 [main] INFO nopcommerce - ********* Add customer validation ***************
+2020-05-12 14:08:17,336 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 14:08:29,071 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 14:08:29,094 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 14:08:29,094 [main] INFO nopcommerce - testing
+2020-05-12 14:08:32,605 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 14:08:42,133 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-12 14:08:42,133 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-12 14:08:49,016 [main] INFO nopcommerce - ********* Search Customer by Email ID Scenario started***************
+2020-05-12 14:08:52,465 [main] INFO nopcommerce - ********* Search customer by email validation ***************
+2020-05-12 14:08:52,590 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 14:09:03,079 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 14:09:03,083 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 14:09:03,083 [main] INFO nopcommerce - testing
+2020-05-12 14:09:07,060 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 14:09:18,942 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-12 14:09:18,942 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-12 14:09:26,449 [main] INFO nopcommerce - ********* Seqarch custoemr by Name Scenario started***************
+2020-05-12 14:09:26,545 [main] INFO nopcommerce - ********* Providing customer name ***************
+2020-05-12 14:09:30,007 [main] INFO nopcommerce - ********* Search customer by name validation ***************
+2020-05-12 14:09:30,100 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 14:09:40,468 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 14:09:40,494 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 14:09:40,494 [main] INFO nopcommerce - testing
+2020-05-12 14:09:44,126 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 14:09:54,100 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 14:09:54,163 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 14:09:59,190 [main] INFO nopcommerce - *********Logout from application***************
+2020-05-12 14:10:01,361 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 14:10:01,377 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 14:10:06,380 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 14:10:17,880 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 14:10:17,883 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 14:10:17,883 [main] INFO nopcommerce - testing
+2020-05-12 14:10:20,881 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 14:10:31,376 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 14:10:31,438 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 14:10:36,444 [main] INFO nopcommerce - *********Logout from application***************
+2020-05-12 14:10:39,429 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 14:10:39,454 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 14:10:44,463 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 15:41:11,188 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 15:41:11,244 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 15:41:11,244 [main] INFO nopcommerce - testing
+2020-05-12 15:41:15,518 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 15:41:26,277 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-12 15:41:26,277 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-12 15:41:35,835 [main] INFO nopcommerce - ********* Providing Customer details ***************
+2020-05-12 15:41:46,792 [main] INFO nopcommerce - ********* Add customer validation ***************
+2020-05-12 15:41:47,740 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 15:41:59,964 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 15:41:59,964 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 15:41:59,964 [main] INFO nopcommerce - testing
+2020-05-12 15:42:02,664 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 15:42:15,214 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-12 15:42:15,214 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-12 15:42:23,136 [main] INFO nopcommerce - ********* Search Customer by Email ID Scenario started***************
+2020-05-12 15:42:26,732 [main] INFO nopcommerce - ********* Search customer by email validation ***************
+2020-05-12 15:42:26,850 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 15:42:38,248 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 15:42:38,248 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 15:42:38,248 [main] INFO nopcommerce - testing
+2020-05-12 15:42:41,707 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 15:42:52,380 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-12 15:42:52,380 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-12 15:43:00,468 [main] INFO nopcommerce - ********* Seqarch custoemr by Name Scenario started***************
+2020-05-12 15:43:00,578 [main] INFO nopcommerce - ********* Providing customer name ***************
+2020-05-12 15:43:04,131 [main] INFO nopcommerce - ********* Search customer by name validation ***************
+2020-05-12 15:43:04,260 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 15:43:15,269 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 15:43:15,285 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 15:43:15,285 [main] INFO nopcommerce - testing
+2020-05-12 15:43:19,819 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 15:43:30,830 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 15:43:30,924 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 15:43:35,959 [main] INFO nopcommerce - *********Logout from application***************
+2020-05-12 15:43:38,971 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 15:43:38,987 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 15:43:44,005 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 15:43:55,764 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 15:43:55,797 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 15:43:55,797 [main] INFO nopcommerce - testing
+2020-05-12 15:43:59,508 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 15:44:10,645 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 15:44:10,681 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 15:44:15,699 [main] INFO nopcommerce - *********Logout from application***************
+2020-05-12 15:44:17,205 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 15:44:17,234 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 15:44:22,244 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 15:46:37,174 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 15:46:37,268 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 15:46:37,268 [main] INFO nopcommerce - testing
+2020-05-12 15:46:40,385 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 15:46:52,296 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-12 15:46:52,296 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-12 15:47:01,795 [main] INFO nopcommerce - ********* Providing Customer details ***************
+2020-05-12 15:47:15,175 [main] INFO nopcommerce - ********* Add customer validation ***************
+2020-05-12 15:47:24,866 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 15:47:24,866 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 15:47:24,866 [main] INFO nopcommerce - testing
+2020-05-12 15:47:29,126 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 15:47:41,263 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-12 15:47:41,263 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-12 15:47:48,284 [main] INFO nopcommerce - ********* Search Customer by Email ID Scenario started***************
+2020-05-12 15:47:51,783 [main] INFO nopcommerce - ********* Search customer by email validation ***************
+2020-05-12 15:47:51,877 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 15:48:03,903 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 15:48:04,028 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 15:48:04,028 [main] INFO nopcommerce - testing
+2020-05-12 15:48:08,122 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 15:48:19,849 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-12 15:48:19,849 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-12 15:48:26,904 [main] INFO nopcommerce - ********* Seqarch custoemr by Name Scenario started***************
+2020-05-12 15:48:27,029 [main] INFO nopcommerce - ********* Providing customer name ***************
+2020-05-12 15:48:30,403 [main] INFO nopcommerce - ********* Search customer by name validation ***************
+2020-05-12 15:48:30,466 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 15:48:44,358 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 15:48:44,374 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 15:48:44,374 [main] INFO nopcommerce - testing
+2020-05-12 15:48:48,353 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 15:49:01,255 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 15:49:01,349 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 15:49:06,380 [main] INFO nopcommerce - *********Logout from application***************
+2020-05-12 15:49:07,934 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 15:49:07,951 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 15:49:12,983 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 15:49:25,536 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 15:49:25,536 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 15:49:25,536 [main] INFO nopcommerce - testing
+2020-05-12 15:49:28,653 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 15:49:40,417 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 15:49:40,496 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 15:49:45,527 [main] INFO nopcommerce - *********Logout from application***************
+2020-05-12 15:49:46,995 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 15:49:47,012 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 15:49:52,043 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 15:52:14,183 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 15:52:14,230 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 15:52:14,230 [main] INFO nopcommerce - testing
+2020-05-12 15:52:21,978 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 15:52:33,891 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-12 15:52:33,891 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-12 15:52:42,148 [main] INFO nopcommerce - ********* Providing Customer details ***************
+2020-05-12 15:52:51,874 [main] INFO nopcommerce - ********* Add customer validation ***************
+2020-05-12 15:52:52,332 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 15:52:59,022 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 15:52:59,030 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 15:52:59,034 [main] INFO nopcommerce - testing
+2020-05-12 15:53:05,693 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 15:53:17,170 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-12 15:53:17,170 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-12 15:53:24,085 [main] INFO nopcommerce - ********* Search Customer by Email ID Scenario started***************
+2020-05-12 15:53:27,876 [main] INFO nopcommerce - ********* Search customer by email validation ***************
+2020-05-12 15:53:28,001 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 15:53:34,756 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 15:53:34,772 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 15:53:34,772 [main] INFO nopcommerce - testing
+2020-05-12 15:53:40,307 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 15:53:49,610 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-12 15:53:49,610 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-12 15:53:56,099 [main] INFO nopcommerce - ********* Seqarch custoemr by Name Scenario started***************
+2020-05-12 15:53:56,287 [main] INFO nopcommerce - ********* Providing customer name ***************
+2020-05-12 15:53:59,740 [main] INFO nopcommerce - ********* Search customer by name validation ***************
+2020-05-12 15:53:59,865 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 15:54:06,477 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 15:54:06,477 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 15:54:06,477 [main] INFO nopcommerce - testing
+2020-05-12 15:54:12,663 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 15:54:21,970 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 15:54:22,048 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 15:54:27,053 [main] INFO nopcommerce - *********Logout from application***************
+2020-05-12 15:54:29,182 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 15:54:29,195 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 15:54:34,205 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 15:54:40,808 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 15:54:40,810 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 15:54:40,810 [main] INFO nopcommerce - testing
+2020-05-12 15:54:47,164 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 15:54:58,449 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 15:54:58,511 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 15:55:03,514 [main] INFO nopcommerce - *********Logout from application***************
+2020-05-12 15:55:06,378 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 15:55:06,388 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 15:55:11,402 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 19:59:37,345 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 19:59:37,396 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 19:59:37,398 [main] INFO nopcommerce - testing
+2020-05-12 19:59:46,255 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 19:59:57,163 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-12 19:59:57,169 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-12 20:00:04,650 [main] INFO nopcommerce - ********* Providing Customer details ***************
+2020-05-12 20:00:13,583 [main] INFO nopcommerce - ********* Add customer validation ***************
+2020-05-12 20:00:13,832 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 20:00:21,630 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 20:00:21,632 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 20:00:21,633 [main] INFO nopcommerce - testing
+2020-05-12 20:00:30,907 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 20:01:13,859 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-12 20:01:13,860 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-12 20:01:20,144 [main] INFO nopcommerce - ********* Search Customer by Email ID Scenario started***************
+2020-05-12 20:01:23,515 [main] INFO nopcommerce - ********* Search customer by email validation ***************
+2020-05-12 20:01:23,613 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 20:01:29,775 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 20:01:29,777 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 20:01:29,778 [main] INFO nopcommerce - testing
+2020-05-12 20:01:39,370 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 20:02:28,776 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-12 20:02:28,777 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-12 20:02:50,895 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 20:02:50,897 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 20:02:50,898 [main] INFO nopcommerce - testing
+2020-05-12 20:03:01,636 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 20:03:52,798 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 20:03:52,865 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 20:03:57,880 [main] INFO nopcommerce - *********Logout from application***************
+2020-05-12 20:03:59,259 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 20:03:59,274 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 20:04:04,296 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 20:04:11,735 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 20:04:11,738 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 20:04:11,738 [main] INFO nopcommerce - testing
+2020-05-12 20:04:20,343 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 20:04:49,259 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 20:04:49,302 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 20:04:54,311 [main] INFO nopcommerce - *********Logout from application***************
+2020-05-12 20:04:57,230 [main] INFO nopcommerce - *********Login Validation starts ***************
+2020-05-12 20:04:57,241 [main] INFO nopcommerce - *********Login successfull ***************
+2020-05-12 20:05:02,256 [main] INFO nopcommerce - *********Closing application ***************
+2020-05-12 20:08:10,418 [main] INFO nopcommerce - ************************Launching Browser**************
+2020-05-12 20:08:10,493 [main] INFO nopcommerce - ********* Opening URL***************
+2020-05-12 20:08:10,494 [main] INFO nopcommerce - testing
+2020-05-12 20:08:17,224 [main] INFO nopcommerce - ********* Proving user info ***************
+2020-05-12 20:08:28,150 [main] INFO nopcommerce - ********* Adding Customer Scenario started  ***************
+2020-05-12 20:08:28,151 [main] INFO nopcommerce - ********* Dashboard Display validation ***************
+2020-05-12 20:08:36,339 [main] INFO nopcommerce - ********* Providing Customer details ***************
+2020-05-12 20:08:45,099 [main] INFO nopcommerce - ********* Add customer validation ***************
+2020-05-12 20:08:45,320 [main] INFO nopcommerce - *********Closing application ***************
